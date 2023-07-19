@@ -1,4 +1,4 @@
-### Olá! Sou o Rychard Mayko 👋
+
 
 <div> 
   
@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/rychardmayko" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+### Olá! Sou o Rychard Mayko 👋
 
 Sou formado em Redes de Computadores e atualmente em transição de carreira com dedicação nos estudos para futuramente me tornar um profissional de front-end. Tomei a decisão de estudar por conta própria diversos cursos voltados para meu objetivo profissional e estou cursando o 4º Semestre de Analise e Desenvolvimento de Sistemas na Universidade Paulista – UNIP com intuito de aprender ainda mais.
 
