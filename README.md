@@ -8,7 +8,10 @@
   
 </div>
 
-
+Sou coordenador pedagógico formado em Redes de Computadores e atualmente em transição de carreira 
+com dedicação nos estudos para futuramente me tornar um desenvolvedor fullstack. Tomei a decisão de 
+estudar por conta própria diversos cursos voltados para meu objetivo profissional e estou cursando o 4º 
+Semestre de Analise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
