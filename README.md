@@ -9,6 +9,6 @@
 </div>
 ### <h1>Olá! Sou o Rychard Mayko 👋
 </h1><br>
-Sou formado em Redes de Computadores e atualmente em transição de carreira com dedicação nos estudos para futuramente me tornar um profissional de front-end. Tomei a decisão de estudar por conta própria diversos cursos voltados para meu objetivo profissional e estou cursando o 4º Semestre de Analise e Desenvolvimento de Sistemas na Universidade Paulista – UNIP com intuito de aprender ainda mais.
+Sou graduado em Redes de Computadores, além de ser recém formado em Análise e Desenvolvimento de Sistemas. Hoje atuo como coordenador pedagógico em uma escola de cursos profissionalizantes e ministro aulas de informática. Atualmente, estou buscando uma recolocação profissional na área, com a intenção de concentrar meus esforços em UX/UI e Fron-end.
 
 
